@@ -1,4 +1,4 @@
-
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=SaiEswarReddy-M.SaiEswarReddy-M" />
 
 # Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Menakuru Sai Eswar Reddy 
 
@@ -70,3 +70,11 @@ I have no idea what I am doing
 <a href="http://www.github.com/SaiEswarReddy-M">
 <img src="https://github-readme-stats.vercel.app/api?username=SaiEswarReddy-M&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaiEswarReddy-M's GitHub stats" /></a>
 <a href="https://github.com/SaiEswarReddy-M" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiEswarReddy-M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<br/><br/>
+<hr/>
+
+<h3 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+✌️;+Shoot+me+a+message+on+Linkedin!;I'm+always+down+to+collab+:)">
+</h3>
+
