@@ -1,22 +1,41 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Menakuru Sai Eswar Reddy
+
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Menakuru Sai Eswar Reddy 
 ================================================================================================================================================
 
-Java Full Stack Developer
--------------------------
+**A boy who went left, when nothing goes right**
 
-An ambitious person who is willing to pursue a career in Full Stack Development. Already on the path of learning it and thriving to change as a professional in the same.
+### Glad to see you here! &nbsp;
 
-* 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://menakurusaieswarreddy.com)
-* ✉️  You can contact me at [menakurusaieswarreddy@gmail.com](mailto:menakurusaieswarreddy@gmail.com)
-* 🚀  I'm currently working on [Recipie App](http://recipie.com)
-* 🧠  I'm learning SpringBoot, MangoDB
-* 🤝  I'm open to collaborating on Projects
-* ⚡  Go Green, There is no Planet B
+I am an ambitious person who is willing to pursue a career in Full Stack Development. Already on the path of learning it and thriving to change as a professional in the same.
 
-### Skills
+**Talking about Personal Stuff:**
+
+* 🌍  I'm based in India
+* 🖥️  See my portfolio at [MyPortfolio](http://menakurusaieswarreddy.com)
+* ✉️  Reach me at [menakurusaieswarreddy@gmail.com](mailto:menakurusaieswarreddy@gmail.com)
+* 🚀  I'm currently working on [Recipie App](http://recipie.com)
+* 🧠  I'm learning SpringBoot
+* 🤝  I'm open to collaborating on Projects
+* 💬  Ask me about anything, I am happy to help
+* ⚡  Go Green, There is no Planet B
+
+</br>
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+
+```txt
+I have no idea what I am doing
+```
+
+<!--END_SECTION:waka-->
 
 
+
+
+### Languages and Tools:
+
+<!-- <h3 align="left">Languages and Tools:</h3> -->
 <p align="left">
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -30,18 +49,22 @@ An ambitious person who is willing to pursue a career in Full Stack Development.
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 <a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a>
-<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+<!-- <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a> -->
 </p>
 
 
 ### Socials
 
-<p align="left"> <a href="https://www.behance.com/twilight" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> <a href="https://www.github.com/SaiEswarReddy-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/saieswarreddy_333" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/saieswarreddymenakuru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/MSER_333" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
-### Badges
+<p align="left">
+ <!-- <a href="https://www.behance.com/twilight" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/behance.svg" width="32" height="32" /></a> -->
+ <a href="https://www.github.com/SaiEswarReddy-M" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+ <a href="http://www.instagram.com/saieswarreddy_333" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> 
+ <a href="https://www.linkedin.com/in/saieswarreddymenakuru" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> 
+ <a href="https://www.twitter.com/MSER_333" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a>
+ </p>
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/SaiEswarReddy-M"><img src="https://github-readme-stats.vercel.app/api?username=SaiEswarReddy-M&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaiEswarReddy-M's GitHub stats" /></a>
-
-<a href="https://github.com/SaiEswarReddy-M" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiEswarReddy-M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="http://www.github.com/SaiEswarReddy-M">
+<img src="https://github-readme-stats.vercel.app/api?username=SaiEswarReddy-M&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="SaiEswarReddy-M's GitHub stats" /></a>
+<a href="https://github.com/SaiEswarReddy-M" align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaiEswarReddy-M&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
