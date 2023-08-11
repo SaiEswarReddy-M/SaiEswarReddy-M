@@ -14,7 +14,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 **Talking about Personal Stuff:**
 
 * 🌍  I'm based in India
-* 🖥️  See my portfolio at [MyPortfolio](http://menakurusaieswarreddy.com)
+* 🖥️  Checkout my [Portfolio](http://menakurusaieswarreddy.com)
 * ✉️  Reach me at [menakurusaieswarreddy@gmail.com](mailto:menakurusaieswarreddy@gmail.com)
 * 🚀  I'm currently working on [Recipie App](http://recipie.com)
 * 🧠  I'm learning SpringBoot
