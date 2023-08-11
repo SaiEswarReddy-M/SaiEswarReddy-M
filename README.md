@@ -1,13 +1,16 @@
 
-Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Menakuru Sai Eswar Reddy 
-================================================================================================================================================
 
-**A boy who went left, when nothing goes right**
+# Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  I'm Menakuru Sai Eswar Reddy 
 
-### Glad to see you here! &nbsp;
+<img align="right" alt="Coder GIF" height=250 width=350 src="https://thumbs.gfycat.com/EvilNextDevilfish-small.gif" />
 
-I am an ambitious person who is willing to pursue a career in Full Stack Development. Already on the path of learning it and thriving to change as a professional in the same.
+#### Glad to see you here! &nbsp;
 
+I am an ambitious person who is willing to pursue a career in **Full Stack Development**. Already on the path of learning <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Designer.gif" width="30px"> it and thriving to change as a professional in the same. 
+
+A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master/Assets/Developer.gif" width="30px">, who is obsessed with the idea of improving himself and exploring various things
+<!--src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"
+-->
 **Talking about Personal Stuff:**
 
 * 🌍  I'm based in India
@@ -18,7 +21,6 @@ I am an ambitious person who is willing to pursue a career in Full Stack Develop
 * 🤝  I'm open to collaborating on Projects
 * 💬  Ask me about anything, I am happy to help
 * ⚡  Go Green, There is no Planet B
-
 </br>
 
 📊 **This Week I Spent My Time On:**
