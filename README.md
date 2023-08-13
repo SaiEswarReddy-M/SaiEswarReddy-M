@@ -14,7 +14,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 **Talking about Personal Stuff:**
 
 * 🌍  I'm based in India
-* 🖥️  Checkout my [Portfolio](http://menakurusaieswarreddy.com)
+* 🖥️  Checkout my [Portfolio](https://saieswarreddy-m.github.io/)
 * ✉️  Reach me at [menakurusaieswarreddy@gmail.com](mailto:menakurusaieswarreddy@gmail.com)
 * 🚀  I'm currently working on [Recipie App](https://github.com/SaiEswarReddy-M/AndhraRecipes)
 * 🧠  I'm learning SpringBoot
@@ -27,7 +27,7 @@ A **Technophile** <img src="https://github.com/rudrabarad/rudrabarad/blob/master
 <!--START_SECTION:waka-->
 
 ```txt
-I have no idea what I am doing
+Learning Spring
 ```
 
 <!--END_SECTION:waka-->
